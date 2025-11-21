@@ -1,0 +1,40 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# Data files
+*.xlsx
+*.xls
+*.csv
+*.txt
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Power BI files (temporary)
+*.pbix.tmp
+
+# Log files
+*.log
+
+# Temporary files
+temp/
+tmp/
+*.tmp
